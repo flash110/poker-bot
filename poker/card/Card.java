@@ -1,7 +1,5 @@
 package poker.card;
 
-import poker.card.*;
-
 public class Card {
     public Suit suit;
     public Value value;
